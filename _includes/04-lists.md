@@ -1,3 +1,5 @@
+# Here is a list of my favorite things:
+
 1. Item 1
 2. Item 2
 3. Item 3
